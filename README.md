@@ -1,3 +1,3 @@
 # lwangsg.github.io
 
-This page is the helo for this web site. 
+This page is the help for this web site. 
